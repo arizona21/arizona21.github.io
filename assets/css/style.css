@@ -5,7 +5,7 @@ body {
     font-weight: 400;
     color: #888;
 	background-color: #1a1a1a;
-	box-shadow: inset #000000 0px 10px 70px;
+	box-shadow: inset #000000 0px 10px 90px;
     line-height: 30px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ h1, h2 {
 	margin-top: 10px;
 	font-size: 38px;
     font-weight: 300;
-    color: #555;
+    color: #cecece;
     line-height: 50px;
     font-style: italic;
 }
@@ -30,7 +30,7 @@ h1, h2 {
 h3 {
 	font-size: 22px;
     font-weight: 300;
-    color: #555;
+    color: #cdcdcd;
     line-height: 30px;
     font-style: italic;
 }
