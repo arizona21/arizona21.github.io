@@ -109,13 +109,8 @@ img { max-width: 100%; }
 .section-bottom-button {
 	padding-top: 60px;
 }
+{
 
-.btn-link-1 {
-	display: inline-block;
-	height: 50px;
-	margin: 0 5px;
-	padding: 16px 40px 0 40px;
-	
 	background: #ff8a38; /* Old browsers */
 	background: -moz-linear-gradient(top,  #ffb24b 0%, #ff8a38 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb24b), color-stop(100%,#ff8a38)); /* Chrome,Safari4+ */
