@@ -4,6 +4,7 @@ body {
     font-size: 15px;
     font-weight: 400;
     color: #888;
+	background-color: #1a1a1a;
     line-height: 30px;
     text-align: center;
 }
@@ -80,17 +81,17 @@ img { max-width: 100%; }
 }
 
 .section-container-gray-bg {
-	background: #000000;
+	background: #f8f8f8;
 }
 
 .section-container-image-bg, 
 .section-container-image-bg h2, 
 .section-container-image-bg h3 {
-	color: #000000;
+	color: #fff;
 }
 
 .section-container-image-bg .divider-1 span {
-	border-color: #000000;
+	border-color: #fff;
 }
 
 .section-description {
