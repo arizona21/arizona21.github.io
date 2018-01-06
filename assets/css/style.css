@@ -4,7 +4,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     font-weight: 400;
-    color: #888;
+    color: #fffceb;
 	background-color: #1a1a1a;
 	box-shadow: inset #000000 0px 10px 90px;
     line-height: 30px;
@@ -290,7 +290,7 @@ ul.navbar-nav {
 .great-support-container {
 	padding-bottom: 0;
 	background-image: url(http://freeuse.io/img_highres/3188-snow-black-and-white-mountains.jpg);
-	background-size: contain;
+	background-size: cover;
 	overflow: hidden;
 }
 
